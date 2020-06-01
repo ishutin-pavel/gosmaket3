@@ -80,7 +80,7 @@ get_header();
                     </div>
                     <div class="page__row">
                         <div class="page__cell">
-                            <h4 class="subheading subheading--center">Похожие статьи</h4>
+                            <h4 class="subheading subheading--center">Similar articles</h4>
                             <span class="subheading__line"></span>
 			<ul class="similar row">
 											<?php
