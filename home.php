@@ -140,16 +140,16 @@ get_header();
                                                     <div class="directions__body">
                                                         <ul class="directions__list list">
                                                             <li class="list__item">
-                                                                <span class="list__span">Архитектурные макеты</span>
+                                                                <span class="list__span">Architectural Layouts</span>
                                                             </li>
                                                             <li class="list__item">
-                                                                <span class="list__span">Промышленные</span>
+                                                                <span class="list__span">Industrial</span>
                                                             </li>
                                                             <li class="list__item">
-                                                                <span class="list__span">Диорамы, рельеф</span>
+                                                                <span class="list__span">Dioramas, relief</span>
                                                             </li>
                                                             <li class="list__item">
-                                                                <span class="list__span">Макет моделей</span>
+                                                                <span class="list__span">Model Layout</span>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -176,16 +176,16 @@ get_header();
                                                     <div class="directions__body">
                                                         <ul class="directions__list list">
                                                             <li class="list__item">
-                                                                <span class="list__span">Управление с планшета</span>
+                                                                <span class="list__span">Tablet control</span>
                                                             </li>
                                                             <li class="list__item">
-                                                                <span class="list__span">Информ. стойка с моноблоком</span>
+                                                                <span class="list__span">Monoblock information desk</span>
                                                             </li>
                                                             <li class="list__item">
-                                                                <span class="list__span">Макет с анимацией на ЖК панелях</span>
+                                                                <span class="list__span">Layout with animation on LCD panels</span>
                                                             </li>
                                                             <li class="list__item">
-                                                                <span class="list__span">Макет в дополненной реальности</span>
+                                                                <span class="list__span">Augmented Reality Layout</span>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -212,13 +212,13 @@ get_header();
                                                     <div class="directions__body">
                                                         <ul class="directions__list list">
                                                             <li class="list__item">
-                                                                <span class="list__span">Видеооблет</span>
+                                                                <span class="list__span">Video flyby</span>
                                                             </li>
                                                             <li class="list__item">
-                                                                <span class="list__span">Фотореалистичная визуализация</span>
+                                                                <span class="list__span">Photorealistic Visualization</span>
                                                             </li>
                                                             <li class="list__item">
-                                                                <span class="list__span">Моделирование объектов любой сложности</span>
+                                                                <span class="list__span">Modeling objects of any complexity</span>
                                                             </li>
                                                         </ul>
                                                     </div>

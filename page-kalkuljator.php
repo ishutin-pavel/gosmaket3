@@ -2,10 +2,11 @@
 /*
 Template Name: калькулятор
 */
-get_header(); // Подключаем хедер?> 
-                    <div class="page__row">
-                        <div class="page__cell">
-                            <div class="page__block">
+get_header();
+?> 
+    <div class="page__row">
+        <div class="page__cell">
+            <div class="page__block">
 							<div class="calc__wrapper">
 							<ul id="steps" class="calc__steps">
 						<li class="calc__step">
@@ -34,40 +35,40 @@ get_header(); // Подключаем хедер?>
 
 <ul class="calc__ul">
 <li class="calc__lable">
-<div onclick="document.getElementById('result__calc').value='Архитектурный'" id="calc__item1" class="calc__image">
-<img title="Калькулятор" alt="Калькулятор" src="<?php echo get_template_directory_uri(); ?>/pic/Architekturnie_maket2i.jpg"></div>
+<div onclick="document.getElementById('result__calc').value='Architectural'" id="calc__item1" class="calc__image">
+<img title="Calculator" alt="Calculator" src="<?php echo get_template_directory_uri(); ?>/pic/Architekturnie_maket2i.jpg"></div>
 <span class="super-item-li">Creating Architectural</span></li>
 <li class="calc__lable">
-<div onclick="document.getElementById('result__calc').value='Промышленный'" id="calc__item2" class="calc__image" >
-<img title="Калькулятор" alt="Калькулятор" src="<?php echo get_template_directory_uri(); ?>/pic/Promishlennie_maketi_2.jpg" ></div>
+<div onclick="document.getElementById('result__calc').value='Industrial'" id="calc__item2" class="calc__image" >
+<img title="Calculator" alt="Calculator" src="<?php echo get_template_directory_uri(); ?>/pic/Promishlennie_maketi_2.jpg" ></div>
 <span class="super-item-li">Industrial</span></li>
 <li class="calc__lable">
-<div onclick="document.getElementById('result__calc').value='Ландшафтный'" id="calc__item3" class="calc__image">
-<img title="Калькулятор" alt="Калькулятор" src="<?php echo get_template_directory_uri(); ?>/pic/Landshaftnie_maketi.jpg" ></div>
+<div onclick="document.getElementById('result__calc').value='Landscape'" id="calc__item3" class="calc__image">
+<img title="Calculator" alt="Calculator" src="<?php echo get_template_directory_uri(); ?>/pic/Landshaftnie_maketi.jpg" ></div>
 <span class="super-item-li">Landscape</span></li>
 <li class="calc__lable">
-<div onclick="document.getElementById('result__calc').value='Планировочный'" id="calc__item4" class="calc__image" >
-<img title="Калькулятор" alt="Калькулятор" src="<?php echo get_template_directory_uri(); ?>/pic/planerovochnie_maketi_2.jpg" ></div>
+<div onclick="document.getElementById('result__calc').value='Planning'" id="calc__item4" class="calc__image" >
+<img title="Calculator" alt="Calculator" src="<?php echo get_template_directory_uri(); ?>/pic/planerovochnie_maketi_2.jpg" ></div>
 <span class="super-item-li">Master Plan Models </span></li>
 <li class="calc__lable">
-<div onclick="document.getElementById('result__calc').value='Учебный'" id="calc__item5" class="calc__image" >
-<img title="Калькулятор" alt="Калькулятор" src="<?php echo get_template_directory_uri(); ?>/pic/Uchebnie_maketi_s-1.jpg" ></div>
+<div onclick="document.getElementById('result__calc').value='Training'" id="calc__item5" class="calc__image" >
+<img title="Calculator" alt="Calculator" src="<?php echo get_template_directory_uri(); ?>/pic/Uchebnie_maketi_s-1.jpg" ></div>
 <span class="super-item-li">Learning Purposes </span></li>
 <li class="calc__lable">
-<div onclick="document.getElementById('result__calc').value='Подарочный'" id="calc__item6" class="calc__image" >
-<img title="Калькулятор" alt="Калькулятор" src="<?php echo get_template_directory_uri(); ?>/pic/podarochnie_maketi_s-1.jpg" ></div>
+<div onclick="document.getElementById('result__calc').value='Gift'" id="calc__item6" class="calc__image" >
+<img title="Calculator" alt="Calculator" src="<?php echo get_template_directory_uri(); ?>/pic/podarochnie_maketi_s-1.jpg" ></div>
 <span class="super-item-li">Gift</span></li>
 <li class="calc__lable">
-<div onclick="document.getElementById('result__calc').value='Интерьерный'" id="calc__item7" class="calc__image" >
-<img title="Калькулятор" alt="Калькулятор" src="<?php echo get_template_directory_uri(); ?>/pic/maket_interera_s-1.jpg" ></div>
+<div onclick="document.getElementById('result__calc').value='Interior'" id="calc__item7" class="calc__image" >
+<img title="Calculator" alt="Calculator" src="<?php echo get_template_directory_uri(); ?>/pic/maket_interera_s-1.jpg" ></div>
 <span class="super-item-li">Sample</span></li>
 <li class="calc__lable">
-<div onclick="document.getElementById('result__calc').value='Модель'" id="calc__item8" class="calc__image" >
-<img title="Калькулятор" alt="Калькулятор" src="<?php echo get_template_directory_uri(); ?>/pic/Maketi_modeley_s-1.jpg" ></div>
+<div onclick="document.getElementById('result__calc').value='Model'" id="calc__item8" class="calc__image" >
+<img title="Calculator" alt="Calculator" src="<?php echo get_template_directory_uri(); ?>/pic/Maketi_modeley_s-1.jpg" ></div>
 <span class="super-item-li">Interior</span></li>
 <li class="calc__lable">
-<div onclick="document.getElementById('result__calc').value='Нестандартный'" id="calc__item9" class="calc__image" >
-<img title="Калькулятор" alt="Калькулятор" src="<?php echo get_template_directory_uri(); ?>/pic/Nestandartnie_maketi_s-1.jpg" ></div>
+<div onclick="document.getElementById('result__calc').value='Non-standard'" id="calc__item9" class="calc__image" >
+<img title="Calculator" alt="Calculator" src="<?php echo get_template_directory_uri(); ?>/pic/Nestandartnie_maketi_s-1.jpg" ></div>
 <span class="super-item-li">Non-standard  - model</span></li>
 <input id="result__calc" type="hidden" name="option_1" value="">
 </ul>
@@ -270,7 +271,4 @@ get_header(); // Подключаем хедер?>
 
                         </div>
                     </div>
-<script>
-
-</script>
-<?php get_footer(); // Подключаем футер ?>
+<?php get_footer(); ?>

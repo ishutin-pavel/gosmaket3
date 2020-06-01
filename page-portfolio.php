@@ -104,7 +104,7 @@ if ($posttags) {
 	wp_reset_postdata(); // сбрасываем переменную $post
 } 
 else
-	echo 'Записей нет.';
+	echo 'No entries.';
 ?>
 </ul>
 </div>
@@ -112,7 +112,7 @@ else
 <ul class="works row">
 <?php
 // указываем категорию 2 и выключаем разбиение на страницы (пагинацию)
-$query = new WP_Query( 'tag=архитектурные&nopaging=1' ); 
+$query = new WP_Query( 'tag=architectural&nopaging=1' ); 
 if( $query->have_posts() ){
 	while( $query->have_posts() ){
 		$query->the_post();?>
@@ -140,7 +140,7 @@ if ($posttags) {
 	wp_reset_postdata(); // сбрасываем переменную $post
 } 
 else
-	echo 'Записей нет.';
+	echo 'No entries.';
 ?>
 </ul>
 </div>
@@ -148,7 +148,7 @@ else
 <ul class="works row">
 <?php
 // указываем категорию 2 и выключаем разбиение на страницы (пагинацию)
-$query = new WP_Query( 'tag=интерактивные&nopaging=1' ); 
+$query = new WP_Query( 'tag=interactive&nopaging=1' ); 
 if( $query->have_posts() ){
 	while( $query->have_posts() ){
 		$query->the_post();?>
@@ -176,7 +176,7 @@ if ($posttags) {
 	wp_reset_postdata(); // сбрасываем переменную $post
 } 
 else
-	echo 'Записей нет.';
+	echo 'No entries.';
 ?>
 </ul>
 </div>
@@ -184,7 +184,7 @@ else
 <ul class="works row">
 <?php
 // указываем категорию 2 и выключаем разбиение на страницы (пагинацию)
-$query = new WP_Query( 'tag=интерьерные&nopaging=1' ); 
+$query = new WP_Query( 'tag=interior&nopaging=1' ); 
 if( $query->have_posts() ){
 	while( $query->have_posts() ){
 		$query->the_post();?>
@@ -212,7 +212,7 @@ if ($posttags) {
 	wp_reset_postdata(); // сбрасываем переменную $post
 } 
 else
-	echo 'Записей нет.';
+	echo 'No entries.';
 ?>
 </ul>
 </div>
@@ -220,7 +220,7 @@ else
 <ul class="works row">
 <?php
 // указываем категорию 2 и выключаем разбиение на страницы (пагинацию)
-$query = new WP_Query( 'tag=ландшафтные&nopaging=1' ); 
+$query = new WP_Query( 'tag=landscaping&nopaging=1' ); 
 if( $query->have_posts() ){
 	while( $query->have_posts() ){
 		$query->the_post();?>
@@ -248,7 +248,7 @@ if ($posttags) {
 	wp_reset_postdata(); // сбрасываем переменную $post
 } 
 else
-	echo 'Записей нет.';
+	echo 'No entries.';
 ?>
 </ul>
 </div>
@@ -256,7 +256,7 @@ else
 <ul class="works row">
 <?php
 // указываем категорию 2 и выключаем разбиение на страницы (пагинацию)
-$query = new WP_Query( 'tag=модели&nopaging=1' ); 
+$query = new WP_Query( 'tag=models&nopaging=1' ); 
 if( $query->have_posts() ){
 	while( $query->have_posts() ){
 		$query->the_post();?>
@@ -284,7 +284,7 @@ if ($posttags) {
 	wp_reset_postdata(); // сбрасываем переменную $post
 } 
 else
-	echo 'Записей нет.';
+	echo 'No entries.';
 ?>
 </ul>
 </div>
@@ -292,7 +292,7 @@ else
 <ul class="works row">
 <?php
 // указываем категорию 2 и выключаем разбиение на страницы (пагинацию)
-$query = new WP_Query( 'tag=нестандартные&nopaging=1&order=asc' ); 
+$query = new WP_Query( 'tag=non-standard&nopaging=1&order=asc' ); 
 if( $query->have_posts() ){
 	while( $query->have_posts() ){
 		$query->the_post();?>
@@ -320,7 +320,7 @@ if ($posttags) {
 	wp_reset_postdata(); // сбрасываем переменную $post
 } 
 else
-	echo 'Записей нет.';
+	echo 'No entries.';
 ?>
 </ul>
 </div>
@@ -328,7 +328,7 @@ else
 <ul class="works row">
 <?php
 // указываем категорию 2 и выключаем разбиение на страницы (пагинацию)
-$query = new WP_Query( 'tag=планировочные&nopaging=1&order=asc' ); 
+$query = new WP_Query( 'tag=planning&nopaging=1&order=asc' ); 
 if( $query->have_posts() ){
 	while( $query->have_posts() ){
 		$query->the_post();?>
@@ -356,7 +356,7 @@ if ($posttags) {
 	wp_reset_postdata(); // сбрасываем переменную $post
 } 
 else
-	echo 'Записей нет.';
+	echo 'No entries.';
 ?>
 </ul>
 </div>
@@ -364,7 +364,7 @@ else
 <ul class="works row">
 <?php
 // указываем категорию 2 и выключаем разбиение на страницы (пагинацию)
-$query = new WP_Query( 'tag=подарочные&nopaging=1' ); 
+$query = new WP_Query( 'tag=gift&nopaging=1' ); 
 if( $query->have_posts() ){
 	while( $query->have_posts() ){
 		$query->the_post();?>
@@ -392,7 +392,7 @@ if ($posttags) {
 	wp_reset_postdata(); // сбрасываем переменную $post
 } 
 else
-	echo 'Записей нет.';
+	echo 'No entries.';
 ?>
 </ul>
 </div>
@@ -400,7 +400,7 @@ else
 <ul class="works row">
 <?php
 // указываем категорию 2 и выключаем разбиение на страницы (пагинацию)
-$query = new WP_Query( 'tag=промышленные&nopaging=1' ); 
+$query = new WP_Query( 'tag=industrial&nopaging=1' ); 
 if( $query->have_posts() ){
 	while( $query->have_posts() ){
 		$query->the_post();?>
@@ -428,7 +428,7 @@ if ($posttags) {
 	wp_reset_postdata(); // сбрасываем переменную $post
 } 
 else
-	echo 'Записей нет.';
+	echo 'No entries.';
 ?>
 </ul>
 </div>
@@ -436,7 +436,7 @@ else
 <ul class="works row">
 <?php
 // указываем категорию 2 и выключаем разбиение на страницы (пагинацию)
-$query = new WP_Query( 'tag=учебные&nopaging=1' ); 
+$query = new WP_Query( 'tag=training&nopaging=1' ); 
 if( $query->have_posts() ){
 	while( $query->have_posts() ){
 		$query->the_post();?>
@@ -464,7 +464,7 @@ if ($posttags) {
 	wp_reset_postdata(); // сбрасываем переменную $post
 } 
 else
-	echo 'Записей нет.';
+	echo 'No entries.';
 ?>
 </ul>
 </div>
