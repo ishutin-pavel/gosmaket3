@@ -40,52 +40,11 @@
                                 <span class="footer__hr"></span>
                                 <div class="footer__loc">
                                     <ul class="loc">
-                    <li class="loc__item">
+                                        <li class="loc__item">
                                             <span class="loc__icon loc__icon--2"></span>
                                             <span class="loc__text">
                                                 <span class="loc__span loc__span--primary">UAE, Sharjah</span>
                                                 <span class="loc__span loc__span--secondary">Crescent House, 9th floor</span>
-                                            </span>
-                                        </li>
-                                        <li class="loc__item">
-                                            <span class="loc__icon loc__icon--1"></span>
-                                            <span class="loc__text">
-                                                <span class="loc__span loc__span--primary">Russia, Rostov-on-Don</span>
-                                                <span class="loc__span loc__span--secondary">per. Machine Building, 11</span>
-                                            </span>
-                                        </li>
-
-                                    </ul>
-                                    <ul class="loc">
-                     <li class="loc__item">
-                                            <span class="loc__icon loc__icon--2"></span>
-                                            <span class="loc__text">
-                                                <span class="loc__span loc__span--primary">Russia, St. Petersburg</span>
-                                                <span class="loc__span loc__span--secondary">st. Podvoisky, 14/1</span>
-                                            </span>
-                                        </li>
-                                        <li class="loc__item">
-                                            <span class="loc__icon loc__icon--3"></span>
-                                            <span class="loc__text">
-                                                <span class="loc__span loc__span--primary">Russia, Moscow</span>
-                                                <span class="loc__span loc__span--secondary">st. Amur, 2</span>
-                                            </span>
-                                        </li>
-
-                                    </ul>
-                                    <ul class="loc">
-                                        <li class="loc__item">
-                                            <span class="loc__icon loc__icon--5"></span>
-                                            <span class="loc__text">
-                                                <span class="loc__span loc__span--primary">Russia, Stavropol</span>
-                                                <span class="loc__span loc__span--secondary">st. Breeding, 6</span>
-                                            </span>
-                                        </li>
-                    <li class="loc__item">
-                                            <span class="loc__icon loc__icon--4"></span>
-                                            <span class="loc__text">
-                                                <span class="loc__span loc__span--primary">Russia, Krasnodar</span>
-                                                <span class="loc__span loc__span--secondary">st. Tchaikovsky, 25</span>
                                             </span>
                                         </li>
                                     </ul>
