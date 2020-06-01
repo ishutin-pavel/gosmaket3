@@ -1,5 +1,5 @@
 /*header*/
-.nav {padding: 15px 0; height: 110px; padding-right: 58px; position: relative; margin-right: -123px; display: flex; justify-content: space-between; align-items: center;}
+.nav {padding: 15px 0; height: 110px; /*padding-right: 58px;*/ position: relative; margin-right: -123px; display: flex; justify-content: space-between; align-items: center;}
 .page__row--nav-fixed .nav {height: 72px;}
 .nav__brand {width: 178px; display: inline-block; vertical-align: middle;}
 .nav__menu {padding-left: 7px; margin-bottom: 3px; flex: 0 1 586px; display: flex;-webkit-tap-highlight-color: rgba(0,0,0,0);}

@@ -182,6 +182,7 @@ else
                                         </ul>
                                     </li>
                                 </ul>
+<?php /*
                                 <ul class="nav__lang lang">
                                     <li class="lang__item">
                                         <a href="#" class="lang__link">En</a>
@@ -190,6 +191,7 @@ else
                                         <a href="#" class="lang__link">Ру</a>
                                     </li>
                                 </ul>
+ */ ?>
                                 <div class="nav__button" data-target="#nav__menu">
                                     <button type="button" class="btn-nav">
                                         <span class="btn-nav__line"></span>
