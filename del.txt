@@ -1,0 +1,15 @@
+
+./page-contacts.php:												<p class="conta__text body"> <a href="mailto:sale@gosmaket.ru" class="conta__link body">sale@gosmaket.ru</a></p>
+./footer.php:<?php echo do_shortcode( '[wlgetform email="sale@gosmaket.ru"]' ); ?>
+./header.php:                                                <a href="https://www.instagram.com/gosmaket.ru/" target="_blank" class="social__link social__link--in"></a>
+./page-price.php:											<p class="price__text body">Чтобы заказать макет дома , здания или любого другого жилого, промышленного объекта в нашей макетной студии необходимо подготовить следующую информацию и выслать нам на e-mail: info@gosmaket.ru</p>
+
+
+
+search wlgetform
+./footer.php:<?php echo do_shortcode( '[wlgetform email="sale@gosmaket.ae"]' ); ?>
+
+
+
+./page-contacts.php:                                                    <a href="tel:+971505597193" class="conta__link body">+971 50 55 971 93</a>
+./footer.php:                                            <a id="footer__phone" href="tel:+971505597193" class="contacts__link contacts__link--white">+971 50 55 971 93</a>

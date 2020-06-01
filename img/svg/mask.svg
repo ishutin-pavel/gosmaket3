@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>mask</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Main-1440px" transform="translate(-1001.000000, -238.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Первый-экран" transform="translate(155.000000, 32.000000)">
+                <g id="Видео" transform="translate(782.000000, 206.000000)">
+                    <g id="mask">
+                        <path d="M64,0 L214,0 L214,150 L64,150 L64,0 Z M154.189189,130 C187.061776,130 203,109.745183 203,82.281106 C203,54.8170289 183.429371,21 149.208494,21 C114.987618,21 74,40.0875576 74,73.2396313 C74,106.391705 121.316602,130 154.189189,130 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

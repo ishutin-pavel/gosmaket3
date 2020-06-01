@@ -1,0 +1,149 @@
+@charset "utf-8";
+
+/* =================== Montserrat =================== */
+
+/*MontserratBlack*/
+@font-face {
+    font-family: "MontserratBlack";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-Black.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratBlackItalic*/
+@font-face {
+    font-family: "MontserratBlackItalic";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-BlackItalic.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratBold*/
+@font-face {
+    font-family: "MontserratBold";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-Bold.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratBoldItalic*/
+@font-face {
+    font-family: "MontserratBoldItalic";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-BoldItalic.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratExtraBold*/
+@font-face {
+    font-family: "MontserratExtraBold";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-ExtraBold.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratExtraBoldItalic*/
+@font-face {
+    font-family: "MontserratExtraBoldItalic";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-ExtraBoldItalic.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratExtraLight*/
+@font-face {
+    font-family: "MontserratExtraLight";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-ExtraLight.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratExtraLightItalic*/
+@font-face {
+    font-family: "MontserratExtraLightItalic";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-ExtraLightItalic.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratItalic*/
+@font-face {
+    font-family: "MontserratItalic";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-Italic.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratLight*/
+@font-face {
+    font-family: "MontserratLight";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-Light.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratLightItalic*/
+@font-face {
+    font-family: "MontserratLightItalic";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-LightItalic.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratMedium*/
+@font-face {
+    font-family: "MontserratMedium";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-Medium.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratMediumItalic*/
+@font-face {
+    font-family: "MontserratMediumItalic";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-MediumItalic.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratRegular*/
+@font-face {
+    font-family: "MontserratRegular";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-Regular.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratSemiBold*/
+@font-face {
+    font-family: "MontserratSemiBold";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-SemiBold.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratSemiBoldItalic*/
+@font-face {
+    font-family: "MontserratSemiBoldItalic";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-SemiBoldItalic.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratThin*/
+@font-face {
+    font-family: "MontserratThin";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-Thin.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/*MontserratThinItalic*/
+@font-face {
+    font-family: "MontserratThinItalic";
+    src: local("ß"), url("fonts/Montserrat/Montserrat-ThinItalic.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* =================== Montserrat =================== */
