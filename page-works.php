@@ -2,54 +2,54 @@
 /*
 Template Name: о мастерской
 */
-get_header(); // Подключаем хедер?> 
-                    <div class="page__row page__row--cover" style="background-image: url(<?php the_field('stati_image'); ?>);">
-                        <div class="page__cell">
-                            <div class="cover">
-                                <h1 class="cover__headline headline headline--h3"><?php the_field('stati_title'); ?></h1>
-                            </div>
+get_header(); ?> 
+<div class="page__row page__row--cover" style="background-image: url(<?php the_field('stati_image'); ?>);">
+    <div class="page__cell">
+        <div class="cover">
+            <h1 class="cover__headline headline headline--h3"><?php the_field('stati_title'); ?></h1>
+        </div>
+    </div>
+</div>
+<div class="page__row">
+    <div class="page__cell">
+        <div class="page__block">
+            <?php while ( have_posts() ) : the_post(); ?>
+              <?php the_content(); ?>
+            <? endwhile;?>
+            <div style="margin-bottom:60px" class="works__title">LAYOUT STUDIO - A PLACE WHERE THE PROFESSIONALS OF VARIOUS PROFILE COMBINE TO SOLVE THE SPECIFIC DELIVERED MARKETING PROBLEM</div>
+
+            <div class="article">
+                <div class="row">			
+                    <div class="col-12 col-lg-6">
+                        <div class="article__block">
+                            <div class="title title--mr">FOR A BIG UNDERSTANDING, DISCUSSING EXAMPLES</div>
+                            <p>There is a customer - the owner of certain assets, financial support and the idea of creating a complex for the processing and storage of grain crops. Simply put elevator complex. But for a full-fledged launch of the project, there is not enough funding and then it attracts investors by participating in various investment forums and agricultural exhibitions. He is looking for interested investors in a well-thought-out business idea with completely transparent and clear prospects for earning on certain conditions. So in this case, one cannot come up with a more effective tool for visualizing and presenting an idea than a tangible, real layout of this elevator complex. The model in this case is a reduced copy of the territory with elevators, office buildings, a fleet of maintenance equipment and border territory. The layout gives so much clarity that it is no longer possible to imagine, not a single picture and visualization will give a more understandable idea of the volume of this industrial territory and its appearance.</p>
                         </div>
                     </div>
-                                       <div class="page__row">
-                        <div class="page__cell">
-                            <div class="page__block">
-                                <?php while ( have_posts() ) : the_post(); ?>
-									<?php the_content(); ?>
-										<? endwhile;?>
-										<div style="margin-bottom:60px" class="works__title">МАКЕТНАЯ СТУДИЯ – МЕСТО ГДЕ ПРОФЕССИОНАЛЫ РАЗЛИЧНОГО ПРОФИЛЯ ОБЪЕДИНЯЮТСЯ ДЛЯ РЕШЕНИЯ КОНКРЕТНОЙ ПОСТАВЛЕННОЙ МАРКЕТИНГОВОЙ ЗАДАЧИ</div>
-										<div class="article">
-								
-									<div class="row">			
-                                        <div class="col-12 col-lg-6">
-                                            <div class="article__block">
-                                                <div class="title title--mr">ДЛЯ БОЛЬШЕГО ПОНИМАНИЯ РАЗБЕРЕМ ПРИМЕРЫ</div>
-											Есть заказчик – владелец неких активов, финансового обеспечения и идеи создания комплекса по переработке и хранению зерновых культур. Проще говоря элеваторного комплекса. Но для полноценного запуска проекта не хватает финансирования и тогда он привлекает инвесторов путем участия в различных инвестиционных форумах и аграрных выставках. Он ищет заинтересованных инвесторов в хорошо продуманной бизнес идее с вполне прозрачными и ясными перспективами заработка на тех или иных условиях. Так вот в этом случае не придумать более эффективного инструмента визуализации и презентации идеи, чем осязаемый, реальный макет этого элеваторного комплекса. Макет в этом случае – уменьшенная копия территории с элеваторами, офисными зданиями, парком обслуживающей техники и пограничной территории. Макет дает столько наглядности, что и представить больше нельзя, ни одна картинка и визуализация не даст более понятного представления об объемах этой промышленной территории и ее внешнем виде.
-                                            </div>
-                                        </div>
-										<div class="col-12 col-lg-6">
-                                            <div class="article__block">
-                                                <img src="<?php echo get_template_directory_uri(); ?>/pic/works1.jpg" alt="макетная студия" class="article__picture img-responsive">
-                                            </div>
-                                        </div>	
-										</div>
-			
-
-									<div class="row">
-                                        <div class="col-12 col-lg-6">
-                                            <div class="article__block">
-                                                <img src="<?php echo get_template_directory_uri(); ?>/pic/works2.jpg" alt="застройщик" class="article__picture img-responsive">
-                                            </div>
-                                        </div>
-										<div class="col-12 col-lg-6">
-                                            <div class="article__block">
-                                                <div class="title title--mr">CЛЕДУЮЩИЙ ПРИМЕР</div>
-										Есть застройщик, он занимается покупкой земельных участков и наемом подрядных организаций либо самостоятельной застройкой этой территории. Там он может построить абсолютно любое сооружение, огрничиваясь лишь проектными нормами и архитектурным законодательством. Это может быть офисное здание или жилой комплекс. Так вот на срединном этапе застройки маркетологи и менеджеры занимаются продажей будущих квартир или поиском арендаторов будущих офисов. В этом конкретном случае – макет очень удобный инструмент для привлечения клиентов для застройщика. Взглянем на макет глазами будущего владельца квартиры или арендатора. Скажем макет стоит в торговом центре, в самом его ярком месте. Человек проходя мимо, в любом случае обратит внимание на сам макет, так завелось, что такие игрушки интересны всем «от мала до велика». Обратив внимание – он прочитает полиграфическую информацию о спец предложении от застройщика и начнет рассматривать непосредственно сам объект. Благодаря его масштабности он сможет оценить инфраструктуру, удобство подъезда и рекреационной зоны, сможет оценить эстетические качества комплекса. Он точно сможет увидеть все то, что хочет увидеть в настоящем комплексе и в таком случае – его звонок станет не просто целевым, а решающим.
-										</div>
-                                        </div>
-            </div>												
-	</div>
-	<div class="works__title">МАКЕТ ВАШЕГО СООРУЖЕНИЯ ЭТО ЛИЦО ВАШЕЙ КОМПАНИИ НА ПРОТЯЖЕНИИ ВСЕЙ МАРКЕТИНГОВОЙ АКЦИИ. ТАК ПУСТЬ В ЭТОМ СЛУЧАЕ ВАС ПРЕДСТАВЛЯЕТ КАЧЕСТВЕННЫЙ КРАСИВЫЙ МАКЕТ, НАПОЛНЕННЫЙ ОСВЕЩЕНИЕМ И ДИНАМИЧЕСКИМИ ОБЪЕКТАМИ, СДЕЛАЙТЕ ТАК, ЧТОБЫ ВАШ ОБЪЕКТ СТАЛ ПРЕДМЕТОМ ВОСХИЩЕНИЯ.</div>
+                    <div class="col-12 col-lg-6">
+                        <div class="article__block">
+                            <img src="<?php echo get_template_directory_uri(); ?>/pic/works1.jpg" alt="макетная студия" class="article__picture img-responsive">
                         </div>
-				      </div>
-					</div>
-<?php get_footer(); // Подключаем футер ?>
+                    </div>	
+                </div><!-- .row -->
+
+                <div class="row">
+                    <div class="col-12 col-lg-6">
+                        <div class="article__block">
+                            <img src="<?php echo get_template_directory_uri(); ?>/pic/works2.jpg" alt="застройщик" class="article__picture img-responsive">
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6">
+                        <div class="article__block">
+                            <div class="title title--mr">NEXT EXAMPLE</div>
+                            <p>There is a developer, he is engaged in the purchase of land and hired contractors or self-development of this territory. There he can build absolutely any structure, limited only by design standards and architectural legislation. It can be an office building or a residential complex. So at the middle stage of development, marketers and managers are selling future apartments or finding tenants for future offices. In this particular case, the layout is a very convenient tool for attracting customers for the developer. Take a look at the layout through the eyes of the future owner of the apartment or tenant. Let's say the layout is in the mall, in its brightest place. A person passing by, in any case, will pay attention to the layout itself, it is so wound up that such toys are interesting to everyone "from small to large." Paying attention - he will read the printing information about the special offer from the developer and will begin to examine the object itself. Due to its scale, he will be able to evaluate the infrastructure, the convenience of the entrance and recreation area, will be able to appreciate the aesthetic qualities of the complex. He will definitely be able to see everything that he wants to see in the real complex, and in this case - his call will not only be targeted, but decisive.</p>
+                        </div>
+                    </div>
+                </div>												
+            </div><!-- .article -->
+
+            <div class="works__title">THE LAYOUT OF YOUR CONSTRUCTION IS THE FACE OF YOUR COMPANY FOR THE WHOLE MARKETING ACTION. SO LETTER IN THIS CASE YOU REPRESENT A QUALITATIVE BEAUTIFUL LAYOUT FILLED WITH LIGHTING AND DYNAMIC OBJECTS, MAKE THAT YOUR OBJECT BECOMES EXTREME.</div>
+    </div>
+</div>
+</div>
+<?php get_footer(); ?>
