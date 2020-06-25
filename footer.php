@@ -103,7 +103,7 @@ else
                                     <li class="footer__nav-item">
                                         <a href="/o-masterskoj/" class="footer__nav-link">About us</a>
                                     </li>
-                                    <li class="footer__nav-item">
+                                    <li class="footer__nav-item" style="display: none;">
                                         <a href="/vakansii-maketnoj-masterskoj-gosmaket/" class="footer__nav-link">Careers</a>
                                     </li>
                                     <li class="footer__nav-item">
