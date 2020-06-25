@@ -82,7 +82,7 @@ a, a::before, a::after, img, button, button::before, button::after, .btn, label,
 .headline--h2 {font-size: 48px; line-height: 64px;}
 .headline--h3 {font-size: 28px; line-height: 34px;}
 .headline--center {text-align: center;}
-.title {font-size: 26px; line-height: 50px;}
+.title {font-size: 26px; line-height: 1.2;}
 .title--mr {margin-top: -16px; margin-bottom: 16px;}
 .title--center {text-align: center;}
 .title--black {color: #272C39;}
