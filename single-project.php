@@ -94,7 +94,7 @@ get_header();
                                     <img src="<?php echo get_template_directory_uri(); ?>/img/cta.png" alt="cta" class="cta__picture">
                                 </span>
                                 <div class="cta__text">
-                                    <h3 class="cta__title">Do you have the idea of an ideal model?</h3>
+                                    <h3 class="cta__title">Do you have the idea of a perfect model?</h3>
                                     <p class="cta__desc">Just share your idea with us <br class="cta__br">and we will help you make it real!</p>
                                     <a href="#" class="cta__btn btn btn--default btn--width btn--md">
                                         <span class="btn__text">Поделиться идеей</span>
