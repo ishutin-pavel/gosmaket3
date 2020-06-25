@@ -271,72 +271,82 @@ get_header();
                                         <ul class="customers__list">
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_01-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_01.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_02-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_02.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_03-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_03.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_04-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_04.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_05-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_05.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_06-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_06.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_07-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_07.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_08-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_08.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_09-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_01.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_10-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_02.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_11-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_03.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_12-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_04.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_13-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_05.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_14-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_06.jpg" alt="customers" class="customers__picture">
+                                                </a>
+                                            </li>
+                                            <li class="customers__item">
+                                                <a href="#" class="customers__link">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_07.jpg" alt="customers" class="customers__picture">
+                                                </a>
+                                            </li>
+                                            <li class="customers__item">
+                                                <a href="#" class="customers__link">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_08.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                         </ul>
@@ -345,72 +355,82 @@ get_header();
                                         <ul class="customers__list">
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_15-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_08.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_16-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_07.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_14-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_06.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_13-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_05.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_12-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_04.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_11-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_03.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_10-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_02.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_09-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_01.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_08-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_08.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_07-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_07.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_06-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_06.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_05-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_05.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_04-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_04.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                             <li class="customers__item">
                                                 <a href="#" class="customers__link">
-                                                    <img src="<?php echo get_template_directory_uri(); ?>/pic/client-thumbnail_03-150x150.jpg" alt="customers" class="customers__picture">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_03.jpg" alt="customers" class="customers__picture">
+                                                </a>
+                                            </li>
+                                            <li class="customers__item">
+                                                <a href="#" class="customers__link">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_02.jpg" alt="customers" class="customers__picture">
+                                                </a>
+                                            </li>
+                                            <li class="customers__item">
+                                                <a href="#" class="customers__link">
+                                                    <img src="/wp-content/uploads/2020/06/our_clients_01.jpg" alt="customers" class="customers__picture">
                                                 </a>
                                             </li>
                                         </ul>
@@ -506,7 +526,7 @@ get_header();
                                     <img src="<?php echo get_template_directory_uri(); ?>/img/cta.png" alt="cta" class="cta__picture">
                                 </span>
                                 <div class="cta__text">
-                                    <h3 class="cta__title">Do you have the idea of an ideal model?</h3>
+                                    <h3 class="cta__title">Do you have the idea of a perfect model?</h3>
                                     <p class="cta__desc">Just share your idea with us<br class="cta__br">and we will help you make it real!</p>
                                     <a href="/kalkuljator/" class="cta__btn btn btn--default btn--width btn--md">
                                         <span class="btn__text">Tell about</span>
