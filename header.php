@@ -40,7 +40,7 @@
                         <div class="page__cell">
                             <nav class="nav">
                                 <a href="/" class="nav__brand brand">
-                                    <img src="<?php echo get_template_directory_uri();?>/img/svg/logo.svg" alt="Brand" class="brand__picture">
+                                    <img src="/wp-content/uploads/2020/06/logo_gosmaket.jpeg" alt="Brand" class="brand__picture">
                                 </a>
                                 <ul class="nav__menu" id="nav__menu">
                                     <li class="nav__item">
