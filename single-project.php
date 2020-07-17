@@ -97,7 +97,7 @@ get_header();
                                     <h3 class="cta__title">Do you have the idea of a perfect model?</h3>
                                     <p class="cta__desc">Just share your idea with us <br class="cta__br">and we will help you make it real!</p>
                                     <a href="#" class="cta__btn btn btn--default btn--width btn--md">
-                                        <span class="btn__text">Поделиться идеей</span>
+                                        <span class="btn__text">Share an idea</span>
                                     </a>
                                 </div>
                             </div>
@@ -106,7 +106,7 @@ get_header();
                     <div class="page__row">
                         <div class="page__cell">
                             <div class="next">
-			<?php next_post_link('<a class="next__link" %link' , '<span class="next__icon"></span> <span class="next__span caption">Следующая</span><span class="next__title">%title</span></a>', true); ?>
+			<?php next_post_link('<a class="next__link" %link' , '<span class="next__icon"></span> <span class="next__span caption">Next</span><span class="next__title">%title</span></a>', true); ?>
 
                             </div>
                         </div>
