@@ -94,7 +94,7 @@ get_header();
                                     <img src="<?php echo get_template_directory_uri(); ?>/img/cta.png" alt="cta" class="cta__picture">
                                 </span>
                                 <div class="cta__text">
-                                    <h3 class="cta__title">Do you have the idea of a perfect model?</h3>
+                                    <h2 class="cta__title">Do you have the idea of a perfect model?</h2>
                                     <p class="cta__desc">Just share your idea with us <br class="cta__br">and we will help you make it real!</p>
                                     <a href="#" class="cta__btn btn btn--default btn--width btn--md">
                                         <span class="btn__text">Share an idea</span>
@@ -113,7 +113,7 @@ get_header();
                     </div>
                     <div class="page__row">
                         <div class="page__cell">
-                            <h4 class="title title--center title--black">You may also be interested.</h4>
+                            <h2 class="title title--center title--black">You may also be interested.</h2>
                             <span class="title__line"></span>
 
 <?php $tags = wp_get_post_tags($post->ID);
@@ -137,7 +137,7 @@ $my_query->the_post();
 <span class="interest__block">
 <?php echo get_the_post_thumbnail($page->ID, 'medium', array('class' => 'interest__picture') ); ?>
 </span>
-<span class="interest__subheading subheading"><?php the_title(); ?></span>
+<h3 class="interest__subheading subheading"><?php the_title(); ?></h3>
 </a>
 </li>
 <?php

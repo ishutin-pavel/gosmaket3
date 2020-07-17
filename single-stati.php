@@ -80,7 +80,7 @@ get_header();
                     </div>
                     <div class="page__row">
                         <div class="page__cell">
-                            <h4 class="subheading subheading--center">Similar articles</h4>
+                            <h2 class="subheading subheading--center">Similar articles</h2>
                             <span class="subheading__line"></span>
 			<ul class="similar row">
 											<?php
@@ -93,7 +93,7 @@ $query->the_post();?>
 <a href="<?php the_permalink(); ?>" class="similar__link">
 <?php echo get_the_post_thumbnail($page->ID, 'full', array('class' => 'similar__picture') ); ?>	
 <span class="similar__text">
-<span class="similar__title body"><?php the_title(); ?></span>
+<h3 class="similar__title body"><?php the_title(); ?></h3>
 <span class="similar__date caption"><?php the_date(); ?></span>
 </span>
 </a>
@@ -103,7 +103,7 @@ $query->the_post();?>
 	wp_reset_postdata(); // сбрасываем переменную $post
 } 
 else
-	echo 'Записей нет.';
+	echo 'Posts not found.';
 ?>
 </ul>
 

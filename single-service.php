@@ -38,7 +38,7 @@ get_header();
 		     <div class="service">
             <div class="row">
 				         <div class="col-12 col-md-6">
-                                            <h4 class="service__title title title--mr"><?php echo $title; ?></h4>
+                                            <h2 class="service__title title title--mr"><?php echo $title; ?></h2>
                                             <?php echo $content; ?>
                                             <a href="/kalkuljator/" class="btn btn--default btn--md btn--margin">
                                                 <span class="btn__text">Request for a quote</span>
@@ -57,7 +57,7 @@ get_header();
                                             <img src="<?php echo $image2; ?>" alt="" class="service__picture">
                                         </div>
                                         <div class="col-12 col-md-8">
-                                            <h4 class="service__title title title--mr"><?php echo $title2; ?></h4>
+                                            <h3 class="service__title title title--mr"><?php echo $title2; ?></h3>
                                            <?php echo $content2; ?>
                                             <a href="/kalkuljator/" class="btn btn--default btn--md btn--margin">
                                                 <span class="btn__text">Request for a quote</span>
@@ -70,7 +70,7 @@ get_header();
 						<div class="service">
                                     <div class="row">
                                         <div class="col-12 col-md-8">
-                                            <h4 class="service__title title title--mr"><?php echo $title3; ?></h4>
+                                            <h3 class="service__title title title--mr"><?php echo $title3; ?></h3>
 											<?php echo $content3; ?>                                           
 													<a href="/kalkuljator/" class="btn btn--default btn--md btn--margin">
                                                 <span class="btn__text">Request for a quote</span>

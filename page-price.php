@@ -15,13 +15,13 @@ get_header(); ?>
         <div class="page__block">
             <div class="price">
                 <div class="price__block">
-                    <div class="price__title title">Maket</div>
+                    <h2 class="price__title title">Maket</h2>
                     <p class="price__body body">marketing tool to attract investment and increase sales. The client can not only see the appearance of his future home, but actually feel himself in it! The layout helps to most fully present the shape, composition, functionality and color scheme of the object. Our mock-up workshop produces mock-ups on any scale, both on a smaller scale (buildings, territories, prototypes of large products), and on a larger scale (prototypes of small products and mechanisms). The layout can be indicative (architectural, planning) or working (operating mechanisms and devices, prefabricated structures)</p><br><br>
                 </div>
                 <div class="price__block">
                     <div class="row">
                         <div class="col-12 col-xl-4">
-                            <div class="price__title subheading">Architectural Layouts</div>
+                            <h3 class="price__title subheading">Architectural Layouts</h3>
                             <ul class="price__list list">
                                 <li class="list__item">
                                     <span class="list__span">Residential complexes and houses</span>
@@ -54,7 +54,7 @@ get_header(); ?>
                   <div class="price__block">
                     <div class="row">
                         <div class="col-12 col-xl-4">
-                            <div class="price__title subheading">Industrial facilities</div>
+                            <h3 class="price__title subheading">Industrial facilities</h3>
                             <ul class="price__list list">
                                 <li class="list__item">
                                     <span class="list__span">Factories and enterprises</span>
@@ -87,7 +87,7 @@ get_header(); ?>
 <div class="price__block">
                     <div class="row">
                         <div class="col-12 col-xl-4">
-                            <div class="price__title subheading">Auto, air layouts, model layouts</div>
+                            <h3 class="price__title subheading">Auto, air layouts, model layouts</h3>
                             <ul class="price__list list">
                                 <li class="list__item">
                                     <span class="list__span">Cars</span>
@@ -118,10 +118,10 @@ get_header(); ?>
                     </div>
                 </div>
                 <div class="price__block">
-                    <h4 class="price__headline subheading">Layout price:</h4>
+                    <h2 class="price__headline subheading">Layout price:</h2>
                     <div class="price__row row">
                         <div class="col-12 col-lg-6">
-                            <p class="price__text article-text">High Detail Architectural Layout</p>
+                            <h3 class="price__text article-text">High Detail Architectural Layout</h3>
                             <p class="price__text body"><span class="price__span bodybold">Scale:</span> 1:500</p>
                             <p class="price__text body"><span class="price__span bodybold">Production time:</span> 2 weeks</p>
                             <p class="price__text body"><span class="price__span bodybold">The cost of making the layout:</span>  from 500$</p>
@@ -133,7 +133,7 @@ get_header(); ?>
                             <p class="price__text body"><span class="price__span bodybold">The cost of making the layout:</span>  from 2.000$</p>
                         </div>
                         <div class="col-12 col-lg-6">
-                            <p class="price__text article-text">Architectural model of a residential complex of medium detail</p>
+                            <h3 class="price__text article-text">Architectural model of a residential complex of medium detail</h3>
                             <p class="price__text body"><span class="price__span bodybold">Scale:</span> 1:500</p>
                             <p class="price__text body"><span class="price__span bodybold">Production time:</span> 2 weeks</p>
                             <p class="price__text body"><span class="price__span bodybold">The cost of making the layout:</span>  from 350$</p>
@@ -145,7 +145,7 @@ get_header(); ?>
                             <p class="price__text body"><span class="price__span bodybold">The cost of making the layout:</span>  from 15.000$</p>
                         </div>
                         <div class="col-12">
-                            <p class="price__text article-text">Architectural model of a residential complex of conditional detailing</p>
+                            <h3 class="price__text article-text">Architectural model of a residential complex of conditional detailing</h3>
                             <p class="price__text body"><span class="price__span bodybold">Scale:</span> 1:500</p>
                             <p class="price__text body"><span class="price__span bodybold">Production time:</span> 2 weeks</p>
                             <p class="price__text body"><span class="price__span bodybold">The cost of making the layout:</span>  from 250$</p>
@@ -157,7 +157,7 @@ get_header(); ?>
                             <p class="price__text body"><span class="price__span bodybold">The cost of making the layout:</span>  from 1250$</p>
                         </div>
                         <div class="col-12">
-                          <p class="price__text body"><span class="price__span bodybold">Items:</span></p>
+                          <h3 class="price__text body"><span class="price__span bodybold">Items:</span></h3>
                           <p class="price__text body">Production of the exterior (people, lawns, lanterns, benches, etc.) - from 175$</p>
                           <p class="price__text body">Production of interior lighting - from 150$</p>
                           <p class="price__text body">Production of external lighting - from 150$</p>

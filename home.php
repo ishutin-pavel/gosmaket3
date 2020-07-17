@@ -9,7 +9,7 @@ get_header();
                             <div class="banner">
                                 <div class="banner__row row">
                                     <div class="col-12 col-lg-8">
-                                        <p class="banner__desc">More attention on details than any other company.</p>
+                                        <h1 class="banner__desc">More attention on details than any other company.</h1>
 										<p class="banner__desc">FILL IN FORM AND RECEIVE A MODEL VISUALIZATION FOR FREE</p>
 										                                            <a href="/kalkuljator/" class="nav__btn btn btn--primary btn--min-width btn--sm">
                                                 <span class="btn__text">FILL IN FORM</span>
@@ -41,7 +41,7 @@ get_header();
                                         <span class="section__arrow animated fadeInDown infinite">
                                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="6" height="3" viewBox="0 0 6 3"><defs><path id="dahla" d="M1402 58l3.004 3 2.996-2.992"/></defs><g><g transform="translate(-1402 -58)"><use fill-opacity="0" stroke="#868a8e" stroke-miterlimit="50" xlink:href="#dahla"/></g></g></svg>
                                         </span>
-                                        <h3 class="section__title" id="projects">projects</h3>
+                                        <h2 class="section__title" id="projects">projects</h2>
                                     </div>
                                 </div>
                             </div>
@@ -110,7 +110,7 @@ get_header();
                             <div class="section">
                                 <div class="section__row row">
                                     <div class="col-12 col-lg-3">
-                                        <h3 class="section__title">Services</h3>
+                                        <h2 class="section__title">Services</h2>
                                     </div>
                                     <div class="col-12 col-lg-9">
                                         <div class="section__block">
@@ -135,7 +135,7 @@ get_header();
                                                         <span class="directions__icon">
                                                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="42" viewBox="0 0 42 42"><defs><path id="p6gea" d="M217.648 1731.898l-7.193-3.99 7.198-3.993 7.193 3.99zm-.693 9.184l-7.252-4.013v-7.976l7.252 4.013zm-7.946-18.133a.703.703 0 0 0-.703.703v3.054l-7.242-4.012v-7.976l7.604 4.214a.703.703 0 0 0 .682 0l7.604-4.214v7.971l-7.242 4.012v-3.049a.703.703 0 0 0-.703-.703zm-.702 14.12l-7.252 4.013v-7.976l7.252-4.013zm-7.955-5.181l-7.198-3.988 7.198-3.988 7.197 3.988zm-.704 9.194l-7.242-4.013v-7.976l7.242 4.013zm9.36-31.545l7.199 3.983-7.198 3.983-7.198-3.983zm17.63 17.748l-8.278-4.586v-9.174a.703.703 0 0 0-.362-.615l-8.648-4.792a.703.703 0 0 0-.682 0l-8.648 4.792a.703.703 0 0 0-.363.615v9.164l-8.295 4.596a.703.703 0 0 0-.362.615v9.583c0 .256.139.491.362.615l8.649 4.792a.703.703 0 0 0 .681 0l8.308-4.603 8.308 4.603a.703.703 0 0 0 .681 0l2.017-1.117a.703.703 0 1 0-.682-1.23l-.972.539v-7.976l7.242-4.013v7.976l-1.415.784a.703.703 0 1 0 .682 1.23l1.777-.985a.703.703 0 0 0 .362-.615v-9.583a.703.703 0 0 0-.362-.615z"/><path id="p6gec" d="M188 1747v-42h42v42z"/><clipPath id="p6geb"><use xlink:href="#p6gea"/></clipPath></defs><g><g transform="translate(-188 -1705)"><g><use xlink:href="#p6gea"/></g><g clip-path="url(#p6geb)"><g><use xlink:href="#p6gec"/></g></g></g></g></svg>
                                                         </span>
-                                                        <h2 class="directions__title">Model <br class="directions__br"> Making</h2>
+                                                        <h3 class="directions__title">Model <br class="directions__br"> Making</h3>
                                                     </div>
                                                     <div class="directions__body">
                                                         <ul class="directions__list list">
@@ -171,7 +171,7 @@ get_header();
                                                         <span class="directions__icon">
                                                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="42" viewBox="0 0 42 42"><defs><path id="cfi6a" d="M597.244 1726.765a1 1 0 0 0-.438.828v.623l-.07-.001h-1.128v-3.928l1.417-1.432c.386-.389.386-1.02 0-1.41a.98.98 0 0 0-1.396 0l-1.707 1.724c-.185.187-.29.44-.29.705v4.34h-2.255v-4.34c0-.265-.104-.518-.29-.705l-1.706-1.723a.981.981 0 0 0-1.396 0 1.003 1.003 0 0 0 0 1.41l1.417 1.43v3.929h-1.127l-.07.001v-.623a1 1 0 0 0-.44-.828 8.627 8.627 0 0 1-3.791-7.161c0-4.749 3.827-8.612 8.531-8.612 4.704 0 8.531 3.863 8.531 8.612a8.627 8.627 0 0 1-3.792 7.16zM580 1720c0-.552-.432-1-.966-1h-2.068c-.534 0-.966.448-.966 1s.432 1 .966 1h2.068c.534 0 .966-.448.966-1zm29.034-1h-2.068c-.533 0-.966.448-.966 1s.433 1 .966 1h2.068c.534 0 .966-.448.966-1s-.432-1-.966-1zm-28.59 7.131l-1.925 1.046c-.496.27-.666.867-.38 1.335.192.313.541.488.9.488.175 0 .354-.042.517-.131l1.925-1.046c.496-.27.666-.867.38-1.334-.287-.468-.921-.628-1.417-.358zM605.039 1714c.175 0 .354-.042.517-.131l1.925-1.046c.496-.27.666-.867.38-1.334-.287-.468-.921-.628-1.417-.358l-1.925 1.046c-.496.27-.666.867-.38 1.334.192.314.541.489.9.489zm2.442 13.177l-1.925-1.046c-.496-.27-1.13-.11-1.417.358-.286.467-.116 1.064.38 1.334l1.925 1.046c.163.089.341.131.517.131.359 0 .708-.175.9-.489.286-.467.116-1.064-.38-1.334zm-26-15l-1.925-1.046c-.496-.27-1.13-.11-1.417.358-.286.467-.116 1.064.38 1.334l1.925 1.046c.163.089.341.131.517.131.359 0 .708-.175.9-.489.286-.467.116-1.064-.38-1.334zm15.256 24.563h-8.464c-.622 0-1.128-.51-1.128-1.138 0-.627.506-1.137 1.128-1.137h8.464c.622 0 1.128.51 1.128 1.137 0 .628-.506 1.138-1.128 1.138zm-4.237 4.268a3.25 3.25 0 0 1-3.088-2.276h6.176a3.25 3.25 0 0 1-3.088 2.276zm4.237-10.811c.622 0 1.128.508 1.128 1.133 0 .624-.506 1.133-1.128 1.133h-8.464a1.132 1.132 0 0 1 0-2.266zM592.5 1709c-5.79 0-10.5 4.755-10.5 10.599 0 3.363 1.571 6.501 4.228 8.5v.885a3.135 3.135 0 0 0-1.057 2.35c0 .825.318 1.575.835 2.135a3.133 3.133 0 0 0-.835 2.133c0 1.404.92 2.595 2.184 2.99.407 2.497 2.558 4.408 5.145 4.408 2.587 0 4.738-1.911 5.145-4.407a3.132 3.132 0 0 0 2.184-2.99c0-.825-.318-1.575-.835-2.135.517-.56.835-1.31.835-2.133 0-.936-.41-1.777-1.057-2.351v-.885a10.619 10.619 0 0 0 4.228-8.5c0-5.844-4.71-10.599-10.5-10.599z"/><path id="cfi6c" d="M572 1747v-42h42v42z"/><clipPath id="cfi6b"><use xlink:href="#cfi6a"/></clipPath></defs><g><g transform="translate(-572 -1705)"><g><use xlink:href="#cfi6a"/></g><g clip-path="url(#cfi6b)"><g><use xlink:href="#cfi6c"/></g></g></g></g></svg>
                                                         </span>
-                                                        <h2 class="directions__title">Interactive <br class="directions__br"> models</h2>
+                                                        <h3 class="directions__title">Interactive <br class="directions__br"> models</h3>
                                                     </div>
                                                     <div class="directions__body">
                                                         <ul class="directions__list list">
@@ -207,7 +207,7 @@ get_header();
                                                         <span class="directions__icon directions__icon--pd">
                                                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="34" viewBox="0 0 30 34"><defs><path id="3yo0a" d="M964 1711.69l4 2.285v7.982l-4 2.286zm12-8.06v4.666l-6.953 3.974-4.038-2.308zm1.005 6.398l5.942 3.388-5.942 3.388-5.943-3.388zm.995-6.398l10.99 6.332-4.037 2.308-6.953-3.974zm12 20.613l-4-2.286v-7.982l4-2.286zm-12 1.09v-6.787l6-3.428v6.785zm0 6.97v-4.667l6.953-3.973 4.038 2.307zm-2-6.97l-6-3.43v-6.785l6 3.428zm0 6.96l-10.926-6.36 3.973-2.27 6.953 3.973zm-14-22.338v16.022a1 1 0 0 0 .509.86l13.992 8.062c.524.302 1.004-.001.998 0l14-8.066c.007-.007.495-.277.5-.856l.001-.01v-16.001-.01a1 1 0 0 0-.486-.848l-.015-.008-14-8.067a1.003 1.003 0 0 0-.998 0l-14 8.067a1.004 1.004 0 0 0-.5.855z"/></defs><g><g transform="translate(-962 -1701)"><use xlink:href="#3yo0a"/></g></g></svg>
                                                         </span>
-                                                        <h2 class="directions__title">Visualization and modeling</h2>
+                                                        <h3 class="directions__title">Visualization and modeling</h3>
                                                     </div>
                                                     <div class="directions__body">
                                                         <ul class="directions__list list">
@@ -259,7 +259,7 @@ get_header();
                     <div class="page__row">
                         <div class="page__cell">
                             <div class="section">
-                                <h3 class="section__title">Our clients</h3>
+                                <h2 class="section__title">Our clients</h2>
                             </div>
                         </div>
                     </div>
@@ -526,7 +526,7 @@ get_header();
                                     <img src="<?php echo get_template_directory_uri(); ?>/img/cta.png" alt="cta" class="cta__picture">
                                 </span>
                                 <div class="cta__text">
-                                    <h3 class="cta__title">Do you have the idea of a perfect model?</h3>
+                                    <h2 class="cta__title">Do you have the idea of a perfect model?</h2>
                                     <p class="cta__desc">Just share your idea with us<br class="cta__br">and we will help you make it real!</p>
                                     <a href="/kalkuljator/" class="cta__btn btn btn--default btn--width btn--md">
                                         <span class="btn__text">Tell about</span>
